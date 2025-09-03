@@ -56,7 +56,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227589/index.m3u8
 http://ott.mobaibox.com/PLTV/*/224/3221228472/index.m3u8
 
 #EXTINF:-1 tvg-id="A20" tvg-name="CCTV8K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8K.png" group-title="央视高清",CCTV-8K 超高清
-http://ott.mobaibox.com/PLTV/*/224/3221228581/index.m3u8
+http://ott.mobaibox.com/PLTV/*/224/3221228165/index.m3u8
 
 #EXTINF:-1 tvg-id="B01" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视高清",湖南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227220/index.m3u8
