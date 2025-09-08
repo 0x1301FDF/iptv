@@ -23,7 +23,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221225548/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221225546/index.m3u8
 
 #EXTINF:-1 tvg-id="A09" tvg-name="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8.png" group-title="央视高清",CCTV-8 电视剧
-http://ott.mobaibox.com/PLTV/3/224/3221227204/index.m3u8
+http://ott.mobaibox.com/PLTV/*/224/3221228578/index.m3u8
 
 #EXTINF:-1 tvg-id="A10" tvg-name="CCTV9" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV9.png" group-title="央视高清",CCTV-9 纪录
 http://ott.mobaibox.com/PLTV/3/224/3221225532/index.m3u8
