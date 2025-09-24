@@ -1,17 +1,17 @@
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视高清",CCTV-1 综合
-http://ott.mobaibox.com/PLTV/3/224/3221225530/index.m3u8
+http://ott.mobaibox.com/PLTV/*/224/3221228581/index.m3u8
 
 #EXTINF:-1 tvg-id="A02" tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV2.png" group-title="央视高清",CCTV-2 财经
 http://ott.mobaibox.com/PLTV/3/224/3221227207/index.m3u8
 
 #EXTINF:-1 tvg-id="A03" tvg-name="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV3.png" group-title="央视高清",CCTV-3 综艺
-http://ott.mobaibox.com/PLTV/3/224/3221225588/index.m3u8
+http://ott.mobaibox.com/PLTV/*/224/3221228499/index.m3u8
 
 #EXTINF:-1 tvg-id="A04" tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4.png" group-title="央视高清",CCTV-4 中文国际
 http://ott.mobaibox.com/PLTV/3/224/3221225534/index.m3u8
 
 #EXTINF:-1 tvg-id="A05" tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5.png" group-title="央视高清",CCTV-5 体育
-http://ott.mobaibox.com/PLTV/3/224/3221227166/index.m3u8
+http://ott.mobaibox.com/PLTV/*/224/3221228502/index.m3u8
 
 #EXTINF:-1 tvg-id="A06" tvg-name="CCTV5+" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5plus.png" group-title="央视高清",CCTV-5+ 体育赛事
 http://ott.mobaibox.com/PLTV/3/224/3221225604/index.m3u8
