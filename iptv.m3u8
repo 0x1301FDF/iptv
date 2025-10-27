@@ -58,20 +58,20 @@ http://ott.mobaibox.com/PLTV/*/224/3221228472/index.m3u8
 #EXTINF:-1 tvg-id="A20" tvg-name="CCTV8K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8K.png" group-title="央视高清",CCTV-8K 超高清
 http://ott.mobaibox.com/PLTV/*/224/3221228165/index.m3u8
 
-#EXTINF:-1 tvg-id="B01" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视高清",湖南卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227220/index.m3u8
+#EXTINF:-1 tvg-id="B01" tvg-name="湖南卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视高清",湖南卫视
+http://ott.mobaibox.com/PLTV/4/224/3221228883/index.m3u8
 
-#EXTINF:-1 tvg-id="B02" tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang.png" group-title="卫视高清",浙江卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227215/index.m3u8
+#EXTINF:-1 tvg-id="B02" tvg-name="浙江卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang.png" group-title="卫视高清",浙江卫视
+http://ott.mobaibox.com/PLTV/4/224/3221228900/index.m3u8
 
-#EXTINF:-1 tvg-id="B03" tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongfang.png" group-title="卫视高清",东方卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227597/index.m3u8
+#EXTINF:-1 tvg-id="B03" tvg-name="东方卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongfang.png" group-title="卫视高清",东方卫视
+http://ott.mobaibox.com/PLTV/4/224/3221228956/index.m3u8
 
 #EXTINF:-1 tvg-id="B04" tvg-name="北京卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing.png" group-title="卫视高清",北京卫视
-http://ott.mobaibox.com/PLTV/4/224/3221228817/index.m3u8
+http://ott.mobaibox.com/PLTV/4/224/3221228890/index.m3u8
 
 #EXTINF:-1 tvg-id="B05" tvg-name="江苏卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu.png" group-title="卫视高清",江苏卫视
-http://ott.mobaibox.com/PLTV/4/224/3221228897/index.m3u8
+http://ott.mobaibox.com/PLTV/4/224/3221228861/index.m3u8
 
 #EXTINF:-1 tvg-id="B06" tvg-name="安徽卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anhui.png" group-title="卫视高清",安徽卫视
 http://ott.mobaibox.com/PLTV/3/224/3221225634/index.m3u8
@@ -118,14 +118,14 @@ http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
 #EXTINF:-1 tvg-id="B20" tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning.png" group-title="卫视高清",辽宁卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227380/index.m3u8
 
-#EXTINF:-1 tvg-id="B21" tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shandong.png" group-title="卫视高清",山东卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227621/index.m3u8
+#EXTINF:-1 tvg-id="B21" tvg-name="山东卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shandong.png" group-title="卫视高清",山东卫视
+http://ott.mobaibox.com/PLTV/4/224/3221228880/index.m3u8
 
 #EXTINF:-1 tvg-id="B22" tvg-name="深圳卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shenzhen.png" group-title="卫视高清",深圳卫视
 http://ott.mobaibox.com/PLTV/4/224/3221228835/index.m3u8
 
-#EXTINF:-1 tvg-id="B23" tvg-name="四川卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Sichuan.png" group-title="卫视高清",四川卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228171/index.m3u8
+#EXTINF:-1 tvg-id="B23" tvg-name="四川卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Sichuan.png" group-title="卫视高清",四川卫视
+http://ott.mobaibox.com/PLTV/4/224/3221228877/index.m3u8
 
 #EXTINF:-1 tvg-id="B24" tvg-name="天津卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Tianjin.png" group-title="卫视高清",天津卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227212/index.m3u8
